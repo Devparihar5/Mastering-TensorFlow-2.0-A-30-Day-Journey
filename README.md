@@ -61,6 +61,3 @@ A big thank you to [lyhue1991](https://github.com/lyhue1991) for the tutorial th
 ## Let's Get Started!
 
 Get ready to dive into the exciting world of [TensorFlow!](https://github.com/tensorflow/tensorflow) Follow the syllabus, complete each day's chapter, and take your TensorFlow skills to the next level. Happy learning and may your journey be filled with success and growth! 🌟🤖
-
-
-Sure! Here's the complete syllabus for the "Eat That TensorFlow2.0 in 30 Days" series:
