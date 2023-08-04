@@ -10,7 +10,7 @@ This series takes you on a step-by-step journey through the powerful world of Te
 
 ### 1. Chapter 1: Modeling Procedure of TensorFlow
 - [Day 1: Example - Modeling Procedure for Structured Data](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-1%20Modeling%20Procedure%20of%20TensorFlow/1-1modeling-procedure-for-structured-data.ipynb)
-- Day 2: Example - Modeling Procedure for Images
+- [Day 2: Example - Modeling Procedure for Images](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-1%20Modeling%20Procedure%20of%20TensorFlow/1-2Modeling_Procedure_for_Images.ipynb)
 - Day 3: Example - Modeling Procedure for Texts
 - Day 4: Example - Modeling Procedure for Temporal Sequences
 
