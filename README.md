@@ -12,12 +12,12 @@ This series takes you on a step-by-step journey through the powerful world of Te
 - [Day 1: Example - Modeling Procedure for Structured Data](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-1%20Modeling%20Procedure%20of%20TensorFlow/1-1modeling-procedure-for-structured-data.ipynb)
 - [Day 2: Example - Modeling Procedure for Images](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-1%20Modeling%20Procedure%20of%20TensorFlow/1-2Modeling_Procedure_for_Images.ipynb)
 - [Day 3: Example - Modeling Procedure for Texts](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-1%20Modeling%20Procedure%20of%20TensorFlow/1-3Modeling_Procedure_for_Texts.ipynb)
-- Day 4: Example - Modeling Procedure for Temporal Sequences
+- [Day 4: Example - Modeling Procedure for Temporal Sequences](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-1%20Modeling%20Procedure%20of%20TensorFlow/1-4Modeling_Procedure_for_Temporal_Sequences.ipynb)
 
 ### 2. Chapter 2: Key Concepts of TensorFlow
-- Day 5: Data Structure of Tensor
-- Day 6: Three Types of Graph
-- Day 7: Automatic Differentiation
+- [Day 5: Data Structure of Tensor](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-2%20The%20Key%20Concepts%20of%20TensorFlow/2-1Data_Structure.ipynb)
+- [Day 6: Three Types of Graph](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-2%20The%20Key%20Concepts%20of%20TensorFlow/2-2Three_Types_of_Graph.ipynb)
+- [Day 7: Automatic Differentiation](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-2%20The%20Key%20Concepts%20of%20TensorFlow/2-3Automatic_Differentiate.ipynb)
 
 ### 3. Chapter 3: Hierarchy of TensorFlow
 - Day 8: Low-level API - Demonstration
