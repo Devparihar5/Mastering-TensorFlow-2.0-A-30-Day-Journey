@@ -20,9 +20,9 @@ This series takes you on a step-by-step journey through the powerful world of Te
 - [Day 7: Automatic Differentiation](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-2%20The%20Key%20Concepts%20of%20TensorFlow/2-3Automatic_Differentiate.ipynb)
 
 ### 3. Chapter 3: Hierarchy of TensorFlow
-- Day 8: Low-level API - Demonstration
-- Day 9: Mid-level API - Demonstration
-- Day 10: High-level API - Demonstration
+- [Day 8: Low-level API - Demonstration](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-3%20Hierarchy%20of%20TensorFlow/3-1Low-level_API_Demonstration.ipynb)
+- [Day 9: Mid-level API - Demonstration](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-3%20Hierarchy%20of%20TensorFlow/3-2Mid-level_API_Demonstration.ipynb)
+- [Day 10: High-level API - Demonstration](https://github.com/Devparihar5/Mastering-TensorFlow-2.0-A-30-Day-Journey/blob/main/Chapter-3%20Hierarchy%20of%20TensorFlow/3-3High-level_API_Demonstration.ipynb)
 
 ### 4. Chapter 4: Low-level API in TensorFlow
 - Day 11: Structural Operations of the Tensor
